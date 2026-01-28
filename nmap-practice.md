@@ -10,8 +10,8 @@ Nmap
 scanme.nmap.org
 
 ## Activity
-আমি এই command চালিয়েছি:
-nmap -A scanme.nmap.org
+I run this command :
+nmap -A
 
 ## Result
 - Open Port: 80
@@ -19,5 +19,5 @@ nmap -A scanme.nmap.org
 - Service: HTTP, HTTPS
 
 ## What I Learned
-- কিভাবে open port বের করতে হয়
-- Service detect করা শিখেছি
+- How to findout open port 
+- Service detect
