@@ -22,7 +22,7 @@ nmap -A
 - How to findout open port 
 - Service detect
 
-  ## Activity
+## Activity
 I run this command :
 nmap -sV
 
