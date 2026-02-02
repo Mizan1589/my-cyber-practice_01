@@ -4,7 +4,7 @@
 Nmap
 
 ## Date
-27 January 2026
+2 February 2026
 
 ## Target
 TryHackMe.com/DVWA
