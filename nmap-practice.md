@@ -33,3 +33,14 @@ nmap -sV
 ## What I Learned
 - How to findout open port Service Version
 
+## Result Snapshot
+
+![Nmap_1](https://github.com/user-attachments/assets/e495a62e-ca00-492f-8ace-2c9dc975fbac)
+
+![Nmap_2](https://github.com/user-attachments/assets/822de435-e674-44b7-b787-8ff6df9be777)
+
+![Nmap_3](https://github.com/user-attachments/assets/ab1551c6-c773-4a7d-89a2-94ff278bb744)
+
+![Nmap_4](https://github.com/user-attachments/assets/25278106-a2a1-4de4-ae0e-8546ed4533d6)
+
+![Nmap_4_Part_2](https://github.com/user-attachments/assets/31bd360f-3ba3-4987-9fff-462ca38bb074)
