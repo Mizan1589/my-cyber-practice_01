@@ -16,14 +16,23 @@ I capture packet & filtering for analysis
 I use some filter command
 
 Ftiler                >>> Activity
+
 dns                   >>> DNS check
+
 ip.dst                >>> Malware
+
 tcp.len>1000          >>> Upload
+
 arp                   >>> Who has X ? Tell Y (repeatedly)
+
 icmp                  >>> Disconnect / Timeout / Error
+
 tcp.flags.reset==1    >>> reset
+
 http                  >>> Web
+
 tls                   >>> Encrypted
+
 
 ## Result ( Snapshot)
 
