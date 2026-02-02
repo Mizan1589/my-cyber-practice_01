@@ -7,7 +7,7 @@ Nmap
 2 February 2026
 
 ## Target
-TryHackMe.com/DVWA
+https://tryhackme.com/room/dvwa)
 
 ## Activity
 I run this command :
