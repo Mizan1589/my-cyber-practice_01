@@ -1,4 +1,4 @@
-# Nmap Practice Report
+# Wireshirk Practice Report
 
 ## Tool Name
 Wireshirk
