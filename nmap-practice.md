@@ -44,3 +44,5 @@ nmap -sV
 ![Nmap_4](https://github.com/user-attachments/assets/25278106-a2a1-4de4-ae0e-8546ed4533d6)
 
 ![Nmap_4_Part_2](https://github.com/user-attachments/assets/31bd360f-3ba3-4987-9fff-462ca38bb074)
+
+![Nmap_5](https://github.com/user-attachments/assets/6115da85-3c7c-4286-8516-f2ee157c9a27)
